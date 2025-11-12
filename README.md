@@ -1,6 +1,6 @@
 # 🧠 Tarea Semana 3 — Clasificación de Imágenes y Visualización de Características con CNN
 
-##🧑‍💻 Autor
+🧑‍💻 Autor
 
 Oscar Albuja
 Estudiante Maestría Inteligencia Artificial Aplicada — Universidad de las Américas (UDLA)
