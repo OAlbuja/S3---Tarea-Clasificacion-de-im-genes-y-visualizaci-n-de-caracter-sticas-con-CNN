@@ -2,9 +2,9 @@
 
 🧑‍💻 Autor
 
-Oscar Albuja
-Estudiante Maestría Inteligencia Artificial Aplicada — Universidad de las Américas (UDLA)
-Proyecto desarrollado como parte de la Semana 3 - Redes Neuronales Profundas
+* Oscar Albuja
+* Estudiante Maestría Inteligencia Artificial Aplicada — Universidad de las Américas (UDLA).
+* Proyecto desarrollado como parte de la Semana 3 - Redes Neuronales Profundas
 
 ## 📝 Descripción general
 Esta actividad tiene como objetivo **implementar una red neuronal profunda (CNN o LSTM)** para resolver un problema de **clasificación supervisada**, explorando arquitecturas más avanzadas que las redes MLP.  
