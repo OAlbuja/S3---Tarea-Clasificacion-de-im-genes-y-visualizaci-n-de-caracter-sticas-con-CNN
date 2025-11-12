@@ -1,0 +1,35 @@
+# === Carpetas y archivos de entorno Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Entornos virtuales
+.venv/
+.venv_tf/
+venv/
+env/
+*.env
+
+# === Checkpoints y cachés de Jupyter ===
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# === Archivos de configuración de IDEs ===
+.idea/
+.vscode/
+*.egg-info/
+
+# === Datos y modelos grandes (no subir) ===
+*.sqlite3
+*.h5
+*.csv
+*.json
+*.npz
+*.npy
+*.zip
